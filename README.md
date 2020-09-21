@@ -6,7 +6,7 @@ The links to part of the training dataset(HDR image and video sequence) in the p
 4. MPI: http://resources.mpi-inf.mpg.de/hdr/video/
 
 <2>
-The link to the test dataset(the ) in the paper "HDR Image Compression with Convolutional Autoencoder".
+The link to the test dataset( the Greg Ward’s dataset) in the paper "HDR Image Compression with Convolutional Autoencoder".
 http://www.anyhere.com/gward/hdrenc/pages/originals.html
 
 <3>
